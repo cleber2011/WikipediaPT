@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="windows-1252">
+    <file url="file://$PROJECT_DIR$/src/test/java/simples/Artigo.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/steps/Base.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/steps/Hooks.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/steps/Post.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/features/post.feature" charset="windows-1252" />
+    <file url="PROJECT" charset="windows-1252" />
+  </component>
+</project>
